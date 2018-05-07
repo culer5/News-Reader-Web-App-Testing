@@ -34,6 +34,8 @@ Scott Dickinson culer5@gmail.com
 Initial Release
 1.0
 Specification changes based on Udacity review to Feedreader.js and to Readme
+2.0
+Specification changes based on Udacity review to Feedreader.js
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
