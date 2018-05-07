@@ -13,7 +13,7 @@ This process aims to produce better code by writing the tests first. Developers 
 
 ## Installation
 
-You can click on the green DOWNLOAD button at the following link: https://github.com/culer5/frontend-nanodegree-feedreader. Once the zip file is downloaded to your local drive, unzip all the contents of the zipped folder. Use one of the below methods for Windows machines: Option 1: Select the file, then select the File command in the windows menu, then Extract All then follow the instructions. Option 2: right-click the folder, select Extract All, and then follow the instructions.
+You can click on the green DOWNLOAD button at the following link: https://github.com/culer5/News-Reader-Web-App-Testing. Once the zip file is downloaded to your local drive, unzip all the contents of the zipped folder. Use one of the below methods for Windows machines: Option 1: Select the file, then select the File command in the windows menu, then Extract All then follow the instructions. Option 2: right-click the folder, select Extract All, and then follow the instructions.
 
 Once the files are extracted, launch the index file by double-clicking. Once the file is open in your browser, click on any of the places on the sidebar for different feeds. 
 
