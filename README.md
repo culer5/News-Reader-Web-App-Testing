@@ -17,7 +17,7 @@ You can click on the green DOWNLOAD button at the following link: https://github
 Option 1:   
   1.Select the file, then  
   2.Select the File command in the windows menu  
-  3.Select the  Extract All command then follow the instructions.  
+  3.Select the  Extract All command then follow the instructions.    
 Option 2: 
   1. Right-click the folder 
   2. Select Extract All 
