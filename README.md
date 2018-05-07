@@ -33,10 +33,10 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 Inspiration, code snippets, etc.
 
 awesome-readme
-[w3Schools] (https://www.w3schools.com/bootstrap/default.asp)
-Web App Testing using KnockoutJS Book by Roberto Messora
-A Smarter Way to Learn Javascript Book by Mark Myers.
-A Smarter Way to Learn JQuery Book by Mark Myers.
-A Smarter Way to Learn HTML/CSS Book by Mark Myers.
-Learning Web Design Book by Jennifer Niederst Robbins
-Lynda.com/web development (https://www.lynda.com/)
+[w3Schools] (https://www.w3schools.com/bootstrap/default.asp)  
+Web App Testing using KnockoutJS Book by Roberto Messora  
+A Smarter Way to Learn Javascript Book by Mark Myers.  
+A Smarter Way to Learn JQuery Book by Mark Myers.  
+A Smarter Way to Learn HTML/CSS Book by Mark Myers.  
+Learning Web Design Book by Jennifer Niederst Robbins  
+Lynda.com/web development (https://www.lynda.com/)  
