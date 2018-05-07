@@ -13,10 +13,11 @@ This process aims to produce better code by writing the tests first. Developers 
 
 ## Installation
 
-You can click on the green DOWNLOAD button at the following link: https://github.com/culer5/News-Reader-Web-App-Testing. Once the zip file is downloaded to your local drive, unzip all the contents of the zipped folder. Use one of the below methods for Windows machines: Option 1: 
-  1.Select the file, then 
-  2.Select the File command in the windows menu
-  3.Select the  Extract All command then follow the instructions. 
+You can click on the green DOWNLOAD button at the following link: https://github.com/culer5/News-Reader-Web-App-Testing. Once the zip file is downloaded to your local drive, unzip all the contents of the zipped folder. Use one of the below methods for Windows machines:   
+Option 1:   
+  1.Select the file, then  
+  2.Select the File command in the windows menu  
+  3.Select the  Extract All command then follow the instructions.  
 Option 2: 
   1. Right-click the folder 
   2. Select Extract All 
