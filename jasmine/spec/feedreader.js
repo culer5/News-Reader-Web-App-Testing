@@ -89,7 +89,7 @@ $(function () {
         });
 
         it('are populated by at least one element', function () {
-            expect($('.feed').children().length).toBeGreaterThan(0);
+              expect($('.feed .entry').length).toBeGreaterThan(0);
         });
     });
 
