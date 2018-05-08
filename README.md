@@ -38,6 +38,8 @@ Initial Release
 Specification changes based on Udacity review to Feedreader.js and to Readme
 2.0
 Specification changes based on Udacity review to Feedreader.js
+3.0  
+Specification changes based on Udacity review to Feedreader.js
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
@@ -53,3 +55,5 @@ A Smarter Way to Learn JQuery Book by Mark Myers.
 A Smarter Way to Learn HTML/CSS Book by Mark Myers.  
 Learning Web Design Book by Jennifer Niederst Robbins  
 Lynda.com/web development (https://www.lynda.com/)  
+The Udacity Code Review team for helping me understand!
+
